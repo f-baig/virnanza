@@ -13,6 +13,8 @@ Because we have been trapped indoors so long Virnanza will incorporate both fun 
 
 It will be a virtual concert, that will encourage participation of its concert-goers. Revolutionary in its approach to fun, Virnanza will redfine concerts moving forwards.
 
+![image](https://user-images.githubusercontent.com/68302111/155452728-7526d28b-aeed-4bc0-88b0-3ec1ee9def44.png)
+
 There will be a section of the concert inclusing at home dancing.
 This will be paired appropriately with the very engaging new concept of guest singers! Everyone that applies through social media will be eligible for the chance to sing on the big screen with their favorite artists!
 
