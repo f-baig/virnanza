@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Virnanza
 
-You can use the [editor on GitHub](https://github.com/f-baig/virnanza/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Following the devastating and frankly boring effects of the pandemic, Virnanza brings a never seen before virtual entertainment experience! Virnanza will be the most exciting online event of the year!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
