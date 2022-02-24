@@ -2,8 +2,6 @@
 
 Following the devastating and frankly boring effects of the pandemic, Virnanza brings a never seen before virtual entertainment experience! Virnanza will be the most exciting online event of the year!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### About Us
 
 What is Virnanza you ask? Well, let me let you in on a secret. Virnanza is the greatest new virtual concert to ever grace the Earth.
