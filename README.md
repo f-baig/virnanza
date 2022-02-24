@@ -4,6 +4,11 @@ Following the devastating and frankly boring effects of the pandemic, Virnanza b
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### About Us
+
+What is Virnanza you ask? Well, let me let you in on a secret. Virnanza is the greatest new virtual concert to ever grace the Earth.
+Not only will it be a standalone event but Virnanza as a whole will consist of multiple companion events to other massive concerts such as Coachella. The goal od Virananza is to reinvent what it means to be a concert-goer. New opportunities at getting involved will be presented to concert-goers like never before. For example you can sing alongside your favorite stars while also staying in the comfort of your own home. After such a long isolation period due to the ongoing pandemic we all deserve a break, and Virnanza's mission is to make that break as fun as possible and accompany it with some sick tunes!
+
 ### Events
 
 Because we have been trapped indoors so long Virnanza will incorporate both fun athome and outdoor activities!
