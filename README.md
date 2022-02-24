@@ -18,7 +18,11 @@ It will be a virtual concert, that will encourage participation of its concert-g
 There will be a section of the concert inclusing at home dancing.
 This will be paired appropriately with the very engaging new concept of guest singers! Everyone that applies through social media will be eligible for the chance to sing on the big screen with their favorite artists!
 
+![57648947_691563457926651_4402286163495829668_n](https://user-images.githubusercontent.com/68302111/155453856-c2b1eacd-839f-4a43-b42b-01db312be3c2.jpg)
+
 Alongside this there will be interactive games played with the singers and conductors of the concert itself! Again like we cannot stop reiterating, this concert will truly redefine the role of the concert-goer in the action!
+
+![MN-2017-09-03-Disponibles-en-YouTube-los-conciertos-de-videojuegos-de-la-Gamescom-de-Colonia-Alemania-845x321](https://user-images.githubusercontent.com/68302111/155453906-208f54af-464f-4079-84b3-64831eb32abc.jpg)
 
 ### Support or Contact
 
